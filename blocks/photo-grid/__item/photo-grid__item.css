@@ -1,0 +1,10 @@
+.photo-grid__item {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  min-width: 284px;
+  min-height: 213px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 16px 16px;
+}

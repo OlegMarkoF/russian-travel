@@ -1,0 +1,7 @@
+.cover {
+  max-width: 1184px;
+  height: 740px;
+  display: grid;
+  grid-template-rows: 1fr;
+  position: relative;
+}
