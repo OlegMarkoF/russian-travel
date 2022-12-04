@@ -1,7 +1,0 @@
-.place {
-  max-width: 984px;
-  max-height: 660px;
-  list-style: none;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-}

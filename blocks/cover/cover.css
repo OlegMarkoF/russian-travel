@@ -1,7 +1,9 @@
 .cover {
-  max-width: 1184px;
-  height: 740px;
   display: grid;
   grid-template-rows: 1fr;
   position: relative;
+  max-width: 1184px;
+  max-height: 740px;
+  margin: 0 auto;
+  padding: 0;
 }

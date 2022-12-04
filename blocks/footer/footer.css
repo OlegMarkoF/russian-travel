@@ -1,5 +1,10 @@
 .footer {
-  display: grid;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   max-width: 1184px;
   height: 18px;
+  margin: 0 auto;
+  margin-top: 92px;
 }

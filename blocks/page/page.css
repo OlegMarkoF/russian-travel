@@ -1,14 +1,12 @@
 .page {
   background: #2A2C2F;
-  margin: 0;
-  padding: 0;
+  margin: 0 auto;
+  padding: 28px 0 24px;
   min-width: 1024px;
+  max-width: 1280px;
   color: #FFFFFF;
   /* мы ещё не умеем делать мобильную версию сайта, */
   /* поэтому выше установлена минимальная ширина страницы */
-  max-width: 1280px;
   /* выше установили ограничение по максимальной ширине */
-  margin: 0 auto;
-  /* выше для экранов больше 1600px отцентрировали весь контент */
   font-family: 'Inter', Arial, sans-serif;
 }
