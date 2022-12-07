@@ -1,12 +1,29 @@
 .page {
   background: #2A2C2F;
-  margin: 0 auto;
+  margin: 0;
   padding: 28px 0 24px;
-  min-width: 1024px;
-  max-width: 1280px;
   color: #FFFFFF;
-  /* мы ещё не умеем делать мобильную версию сайта, */
-  /* поэтому выше установлена минимальная ширина страницы */
-  /* выше установили ограничение по максимальной ширине */
-  font-family: 'Inter', Arial, sans-serif;
+  min-width: 1280px;
+  font-family: 'Inter', 'Arial', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media screen and (min-width: 1024px) {
+  .page {
+    min-width: 1024px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .page {
+    min-width: 768px;
+  }
+}
+
+@media screen and (min-width: 320px) {
+  .page {
+    min-width: 320px;
+    padding-top: 16px;
+  }
 }

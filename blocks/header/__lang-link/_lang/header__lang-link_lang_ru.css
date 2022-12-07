@@ -2,3 +2,8 @@
   text-decoration-line: underline;
   margin-right: 18px;
 }
+
+
+.header__lang-link_lang_ru:hover {
+  opacity: 0.8;
+}

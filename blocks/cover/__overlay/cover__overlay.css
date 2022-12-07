@@ -1,9 +1,12 @@
+/* эксперимент 101 + 1
+
 .cover__overlay {
-  max-width: 1184px;
-  height: 740px;
-  opacity: 0.8;
+  max-width: 100%;
+  opacity: 0.3;
 }
 
 .cover__overlay:hover {
-  opacity: 0.3;
+  opacity: 0.8;
 }
+
+*/

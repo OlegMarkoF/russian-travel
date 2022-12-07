@@ -1,9 +1,12 @@
+/*  попытка +100500 
 .cover__background {
   background-image: url("../../../images/cover/__background.png");
+  background-repeat: no-repeat;
   background-size: cover;
   grid-column: 1;
-  grid-row: 1/3;
-  width: 1184px;
-  height: 740px;
-  position: relative;
+  grid-row: 1;
+  width: 100%;
+  height: 740;
 }
+
+*/
