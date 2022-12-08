@@ -1,5 +1,5 @@
 .cover {
-  margin: 0 48px;
+  margin: 0 auto;
   padding: 0;
   max-width: 1184px;
   min-height: 740px;
@@ -45,10 +45,9 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
   .cover {
-    margin: 0;
-    max-width: 320px;
+    min-width: 320px;
     min-height: 200px;
   }
 }

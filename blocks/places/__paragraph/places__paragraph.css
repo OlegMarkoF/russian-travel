@@ -1,22 +1,21 @@
 .places__paragraph {
   margin: 0;
   padding: 0;
-  margin-bottom: 26px;
   font-weight: 400;
   font-size: 18px;
   line-height: 163%;
   align-self: start;
+  
 }
 
 @media screen and (max-width: 768px) {
   .places__paragraph {
     font-size: 16px;
-    margin-bottom: 25px;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
   .places__paragraph {
-    margin: 0 16px 25px;
+    margin: 0 16px;
   }
 }
