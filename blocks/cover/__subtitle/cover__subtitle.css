@@ -3,7 +3,7 @@
   max-width: 360px;
   font-weight: 400;
   font-size: 18px;
-  line-height: 22px;
+  line-height: 122%;
   text-align: center;
   z-index: 2;
   margin-top: 32px;
@@ -13,6 +13,6 @@
   .cover__subtitle {
     min-width: 288px;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 114%;
   }
 }

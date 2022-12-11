@@ -3,7 +3,7 @@
   max-width: 720px;
   font-weight: 900;
   font-size: 96px;
-  line-height: 100px;
+  line-height: 104%;
   text-align: center;
   
 }
@@ -14,7 +14,7 @@
     max-width: 720px;
     font-weight: 900;
     font-size: 96px;
-    line-height: 100px;
+    line-height: 104%;
   }
 }
 
@@ -24,6 +24,6 @@
     min-width: 288px;
     font-weight: 900;
     font-size: 40px;
-    line-height: 44px;
+    line-height: 110%;
   }
 }

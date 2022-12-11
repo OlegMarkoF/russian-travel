@@ -2,7 +2,7 @@
   max-width: 640px;
   font-weight: 400;
   font-size: 30px;
-  line-height: 36px;
+  line-height: 120%;
   text-align: center;
   margin: 32px auto 64px;
 }
@@ -18,7 +18,7 @@
   .lead__subtitle {
     font-weight: 400;
     font-size: 30px;
-    line-height: 36px;
+    line-height: 120%;
     margin: 32px auto 64px;
   }
 }
@@ -28,7 +28,7 @@
     min-width: 288px;
     font-weight: 400;
     font-size: 16px;
-    line-height: 20px;
+    line-height: 125%;
     margin: 16px auto 40px;
   }
 }
