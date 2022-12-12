@@ -12,7 +12,7 @@
 
 **GitHub**
 
-* [Ссылка на GitHub](https://github.com/OlegMarkoF/russian-travel)
+* Посмотреть проект можно по этой [ссылке](https://olegmarkof.github.io/russian-travel)
 
 **Реализация**
 
