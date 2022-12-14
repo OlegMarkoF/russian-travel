@@ -2,6 +2,15 @@
   justify-content: flex-start;
 }
 
+@media screen and (max-width: 760px) {
+  .footer__links {
+    display: grid;
+    gap: 32px;
+    grid-template-columns: 1fr;
+    margin-bottom: 48px;
+  }
+}
+
 @media screen and (max-width: 425px) {
   .footer__links {
     display: grid;
