@@ -6,21 +6,21 @@
   max-width: 1184px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1279px) {
   .header {
-    max-width: 928px;
+    min-width: 928px;
     margin: 0 48px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1040px) {
   .header {
-    max-width: 720px;
+    min-width: 720px;
     margin: 0 24px;
   }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 768px) {
   .header {
     min-width: 288px;
     margin: 0 16px;

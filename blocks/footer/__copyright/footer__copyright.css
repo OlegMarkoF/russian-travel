@@ -13,14 +13,3 @@
     line-height: 100%;
   }
 }
-
-@media screen and (max-width: 425px) {
-  .footer__copyright {
-    margin: 0;
-    max-width: 186px;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 100%;
-  }
-}

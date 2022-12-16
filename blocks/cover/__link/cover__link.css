@@ -27,6 +27,7 @@
   background: #2A2C2F;
   opacity: 0.3;
   z-index: 0;
+  transition: opacity 0.2s ease-in;
 }
 
 .cover__link:hover::after {
@@ -36,8 +37,6 @@
 @media screen and (max-width: 1280px) {
   .cover__link {
     margin: 0 48px;
-    max-width: 1184px;
-    min-height: 740px;
   }
 }
 

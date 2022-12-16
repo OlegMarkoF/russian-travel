@@ -7,6 +7,7 @@
   color: #fff;
   margin-right: 18px;
   max-width: fit-content;
+  transition: opacity 0.2s ease-in;
 }
 
 .footer__link:hover {

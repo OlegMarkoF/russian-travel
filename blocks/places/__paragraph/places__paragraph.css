@@ -5,6 +5,7 @@
   font-size: 18px;
   line-height: 163%;
   align-self: start;
+  
 }
 
 .places__paragraph:nth-child(2n) {
@@ -13,7 +14,7 @@
 
 
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
   .places__paragraph {
     font-size: 16px;
   }
