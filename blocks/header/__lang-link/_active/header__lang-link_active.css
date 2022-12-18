@@ -1,3 +1,4 @@
 .header__lang-link_active {
+  display: inline;
   border-bottom: 1px solid #fff;
 }

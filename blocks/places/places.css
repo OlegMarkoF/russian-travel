@@ -28,7 +28,7 @@
 
 @media screen and (max-width: 425px) {
   .places {
-    margin: 64px 0 41px;
+    margin: 64px 0 66px;
     min-width: 320px;
     gap: 50px;
   }
